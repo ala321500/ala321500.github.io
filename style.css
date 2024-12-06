@@ -1,0 +1,17 @@
+p{
+    color: white; 
+    font-size: large; 
+    font-weight: bold;
+}
+
+h1{color: white;}
+
+body
+{
+    background-color: pink;
+    font-family: "geist mono";
+
+}
+
+img{width: 400px; border: 7px; border-color: white; border-style: dotted;}
+
