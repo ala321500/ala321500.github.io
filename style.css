@@ -10,10 +10,14 @@ body
 {
     background-color: rgb(71, 79, 148);
     font-family: "geist mono";
-
+    max-width: 600px;
+    margin:auto
 }
 
-img{width: 400px; border: 7px; border-color: black; border-style: dotted;}
+img{width: 600px; border: 7px; border-color: black; border-style: dotted;}
+
+
+
 
 
 
